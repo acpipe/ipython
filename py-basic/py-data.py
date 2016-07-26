@@ -18,6 +18,5 @@ if __name__ == '__main__':
     a note example
 
     """
-    #set
+    # set
     s = set(words)
-
