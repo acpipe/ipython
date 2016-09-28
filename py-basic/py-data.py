@@ -13,7 +13,7 @@ if __name__ == '__main__':
         print(i, words[i])
     d = {'A': 1, 'B': 2}
     # dict
-    print d['A']
+    print(d['A'])
     """
     a note example
 
