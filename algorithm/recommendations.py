@@ -75,4 +75,4 @@ def topMatches(perfs, person, n=5, similarity=sim_pearson):
     return topScore[0 : n]
 
 if __name__ == '__main__':
-    print topMatches(critics, "Lisa Rose", 1)
+    print(topMatches(critics, "Lisa Rose", 1))
